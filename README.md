@@ -1,5 +1,7 @@
 # RNA-Sieve
 
+For the most up-to-date version, please visit [our research group's version of the repo](https://github.com/songlab-cal/rna-sieve).
+
 RNA-Sieve is a method for the deconvolution of bulk cell samples via single-cell RNA expression data.
 
 ![RNA-sieve-viz](https://raw.githubusercontent.com/songlab-cal/rna-sieve/v_0_1_1/readme_figures/deconvolution_plot_3d.png)
